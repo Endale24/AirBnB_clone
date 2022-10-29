@@ -24,5 +24,5 @@ The console willl perform the following tasks:
 
 ## Authors :black_nib:
 
-* **Kayode Odeyemi** <[larsody]((https://github.com/larsody)>
+* **Kayode Odeyemi** <[larsody](https://github.com/larsody)>
 * **ENDALE LEGESSE** <[Endale24](https://github.com/Endale24)> 
